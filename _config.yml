@@ -6,10 +6,10 @@ url: "https://Filoktimon.github.io"
 
 # Minima Theme Footer Fix
 author: "Filoktimon"
-email: "your-email@example.com"
+email: #"your-email@example.com"
 twitter_username: 
 github_username:  Filoktimon
-linkedin_school_name: "Filoktimon Repoulias"
+linkedin_school_name: https://www.linkedin.com/in/filoktimon-repoulias-phd/
 
 # Build settings
 theme: minima
