@@ -1,0 +1,37 @@
+---
+---
+// This imports the base Minima styles
+@import "minima";
+
+/* NVIDIA Brand Color Overrides */
+$nv-green: #76B900;
+$nv-black: #000000;
+$nv-dark-grey: #1a1a1a;
+$nv-text: #e0e0e0;
+
+body {
+  background-color: $nv-dark-grey !important;
+  color: $nv-text !important;
+}
+
+// Header and Footer
+.site-header, .site-footer {
+  background-color: $nv-black !important;
+  border-top: 4px solid $nv-green !important;
+}
+
+// Global Links
+a, .site-title, .site-title:visited {
+  color: $nv-green !important;
+}
+
+// Headings
+h1, h2, h3 {
+  color: $nv-green !important;
+}
+
+// Code blocks
+pre, code {
+  background-color: #2b2b2b !important;
+  color: #dcdcdc !important;
+}
