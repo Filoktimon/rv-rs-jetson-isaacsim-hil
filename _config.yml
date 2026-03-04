@@ -11,7 +11,7 @@ email: "firepoul@gmail.com"
 github_username: Filoktimon
 linkedin_username: filoktimon-repoulias-phd
 
-# Build settings
+# Build settings 
 theme: minima
 plugins:
   - jekyll-feed
