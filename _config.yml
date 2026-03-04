@@ -8,8 +8,8 @@ url: "https://Filoktimon.github.io"
 author:
   name: "Filoktimon"
   bio: "Robotics Engineer & AI Developer specializing in NVIDIA Isaac ecosystem and edge deployment."
-  github: "Filoktimon"
-  linkedin: "https://www.linkedin.com/in/filoktimon-repoulias-phd/"
+  github: Filoktimon
+  linkedin: https://www.linkedin.com/in/filoktimon-repoulias-phd/
 
 # Build settings
 theme: minima
