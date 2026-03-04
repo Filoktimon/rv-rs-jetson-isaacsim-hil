@@ -6,10 +6,10 @@ url: "https://Filoktimon.github.io"
 
 # Author Sidebar Info
 author:
-  name: "[Your Name]"
+  name: "Filoktimon"
   bio: "Robotics Engineer & AI Developer specializing in NVIDIA Isaac ecosystem and edge deployment."
-  github: "yourusername"
-  linkedin: "yourprofile"
+  github: "Filoktimon"
+  linkedin: "https://www.linkedin.com/in/filoktimon-repoulias-phd/"
 
 # Build settings
 theme: minima
