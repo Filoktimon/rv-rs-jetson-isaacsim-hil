@@ -1,0 +1,27 @@
+# Site settings
+title: "Jetson & Isaac Sim HiL Series"
+description: "A technical guide to Hardware-in-the-Loop robotics."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io"
+
+# Author Sidebar Info
+author:
+  name: "[Your Name]"
+  bio: "Robotics Engineer & AI Developer specializing in NVIDIA Isaac ecosystem and edge deployment."
+  github: "yourusername"
+  linkedin: "yourprofile"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (for your Sidebar/Header)
+header_pages:
+  - index.md
+  - prerequisites.md
+  - part1-hardware.md
+  - part2-docker.md
+  - part3-networking.md
+  - part4-execution.md
